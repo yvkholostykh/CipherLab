@@ -37,7 +37,7 @@ Kripta_Laba1/
 Откройте командную строку (CMD):
 
 cd C:\Users\Holos\Desktop\Kripta_Laba1
-python main.py
+python 2.py
 
 После запуска появится меню:
 
